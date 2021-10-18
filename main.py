@@ -2,8 +2,7 @@
 #This program is a simple interaction between you and a coffee barista .
 #When you run the program the barista generates their menu. You are then prompted for input from the console. 
 #The barista wants to know what items you would like to order. The script comes to it's conclusion after you have finished
-#ordering and reads back your order. This is a work-in-progress. I would like to make it more interative and varied.
-#I'm doing research on how I can make this more interesting. 
+#ordering and reads back your order. This is a work-in-progress. 
 
 import random
 menu = ["Black Coffee", "Green Tea", "Caramel Macchiato", "Americano", "Cookie", "Eggnog", "Expresso", "Chai Latte", "Vanilla Latte", "Chamomile Tea", "Black Tea", "Frappucino", "Mocha", "Toast"]
